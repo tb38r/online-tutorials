@@ -1,0 +1,20 @@
+
+Role : Backend BackEndDeveloper
+
+Duties/Job Functions (see field's below)
+
+Job description is our interface, 
+
+
+type BackEndDeveloper interface{ //interface type
+ProgramInGo()
+BuildBackend                    //these three (methods) define behaviours
+TrainNewEmplyees()
+}
+
+If any type has similar/equal behaviours it can be said to satisfy the backend dev Interface
+Interface defines the func signature
+
+
+An empty interface is a placeholder for every type as all types can implement zero/nil
+methods!

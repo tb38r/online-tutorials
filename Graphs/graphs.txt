@@ -1,0 +1,17 @@
+
+Adjacency List 
+
+Graph is expressed as a list of vertices and each vertex links to neighbouring 
+vertix
+
+//A list of lists per se
+
+
+Keys = Nodes
+
+____________________________________
+
+
+Adjacency Matrix
+
+With 5 Vertex would result in a by 5 by 5 Matrix

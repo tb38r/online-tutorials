@@ -1,0 +1,17 @@
+LLs are a linear data structure in which the elements are not stored at contiguous memory lcoations
+Consists of nodes (which contain data) with a ref/pointer(called next) to the next nodes
+First initial a node (a struct)
+
+//Arrays: good for modifying certain elements
+//Linked List : good for inserting or deleting an element 
+
+Big O notation ish:
+Time to delete item in a LL is constant regardless of its size (untrue for arrays in comp)
+Memory space required for storage in aLL increaes linearly (as opposedto exponentially/irregular elsewhere)
+
+Each element is a node [data|pointer to next node]
+Head node - First node in a List
+Tail - last node
+
+To create create new node, fill data and fill reference to previous head, reclassify new head
+
